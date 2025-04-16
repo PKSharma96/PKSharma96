@@ -1,20 +1,20 @@
 [![Mastercard](https://cdn.dribbble.com/users/2344027/screenshots/5568384/ezgif.com-optimize.gif)](https://github.com/PKSharma96)
 
 <h1 align="center">Hi 👋, I'm Pushpendra Kumar(PK)</h1>
-<h3 align="center">An ambitious frontend wizard hailing from the vibrant tech scene of India, crafting digital experiences that leave users spellbound.</h3>
+<h3 align="center">An ambitious full stack wizard hailing from the vibrant tech scene of India, crafting digital experiences that leave users spellbound.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2344027/screenshots/5568384/ezgif.com-optimize.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pksharma96&label=Profile%20views&color=0e75b6&style=flat" alt="pksharma96" /> </p>
 
 - 🔭 I’m currently working on **Sahayak WebApp.**
 
-- 🌱 I’m currently learning **React And Some BackEnd Technologies.**
+- 🌱 I’m currently developing **React And Full Stack Application.**
 
-- 👯 I’m looking to collaborate on **Front End Projects.**
+- 👯 I’m looking to collaborate on **Any Projects.**
 
 - 🤝 I’m looking for help with **Networking for my App.**
 
-- 💬 Ask me about **JavaScript And DSA**
+- 💬 Ask me about **Full Stack And DSA**
 
 - 📫 How to reach me **pushpendrakr963@gmail.com**
 
